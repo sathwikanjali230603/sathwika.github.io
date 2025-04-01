@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+A dedicated Backend Engineer with expertise in designing and developing scalable, highperformance systems. Proficient in backend technologies such as Python, API development, and database management (SQL/NoSQL). Focused on optimizing performance, ensuring system reliability, and collaborating with cross-functional teams to deliver seamless, data-driven solutions.
